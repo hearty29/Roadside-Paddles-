@@ -1,19 +1,26 @@
-y
-**Roadside Paddles - Food Delivery Apps**
+⚡ Veltrix Technologies
 
-**All-in-One Food Delivery, Courier & Business Management Platform**
+Modular Food Delivery, Courier & Business Management Platform
 
-**Veltrix Technologies is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.**
+Veltrix Technologies is a modern, customizable business technology platform designed to provide businesses with their own dedicated ordering, delivery, reservation, and management system.
 
-**Instead of depending entirely on third-party delivery platforms, Veltrix Technologies allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.**
+---
 
-**The system is designed to be flexible and customizable according to the needs of each business.**
+The platform is modular, meaning features can be added or removed depending on the type of business.
+
+**For example:**
+
+- 🍽️ Restaurant / Food Business → Food ordering and delivery features can be enabled, while the Pickleball system can be removed.
+- 🏓 Pickleball Business → Pickleball court booking features can be enabled, while the food ordering system can be removed.
+- 🍽️🏓 Restaurant + Pickleball Business → Both systems can be combined into one platform.
+
+This allows Veltrix Technologies to deliver solutions specifically tailored to each business instead of forcing every business to use features they do not need.
 
 ---
 
 🚀 Overview
 
-Veltrix Technologies provides a complete digital ecosystem consisting of:
+Veltrix Technologies can provide businesses with:
 
 - 🍽️ Customer Food Ordering
 - 🛒 Shopping Cart & Checkout
@@ -27,6 +34,91 @@ Veltrix Technologies provides a complete digital ecosystem consisting of:
 - 🏓 Pickleball Court Booking
 - 🔔 Real-Time Notifications
 - 🛡️ Backend Security & Access Control
+
+All features are modular and configurable based on the business requirements.
+
+---
+
+🧩 Modular Business Configuration
+
+Veltrix Technologies is not limited to one type of business.
+
+🍽️ Restaurant / Food Business
+
+If the business operates primarily as a restaurant, café, food shop, or similar establishment:
+
+Enabled:
+
+- Food menu
+- Customer ordering
+- Shopping cart
+- Checkout
+- Delivery
+- Rider system
+- Order tracking
+- Admin dashboard
+- Menu management
+- Customer management
+- Payment features
+
+Optional / Removed:
+
+- Pickleball court management
+- Pickleball reservations
+- Pickleball game timer
+- Pickleball live board
+
+The Pickleball system can simply be removed from the application.
+
+---
+
+🏓 Pickleball Business
+
+If the business operates primarily as a pickleball facility:
+
+Enabled:
+
+- Court management
+- Court reservations
+- Live court availability
+- Time-slot booking
+- Equipment rentals
+- Game timer
+- Live game board
+- Admin dashboard
+- Customer management
+- Authentication
+
+Optional / Removed:
+
+- Food menu
+- Shopping cart
+- Food checkout
+- Food delivery
+- Restaurant rider system
+- Food order management
+
+The food delivery and menu system can simply be removed.
+
+---
+
+🍽️🏓 Restaurant + Pickleball
+
+For businesses that offer both food services and pickleball facilities, Veltrix Technologies can combine both systems into one platform.
+
+Customers can potentially use one platform to:
+
+Order Food
+     +
+Book a Pickleball Court
+     ↓
+One Customer Account
+     ↓
+One Business Platform
+     ↓
+One Admin Dashboard
+
+This provides a unified system for managing both sides of the business.
 
 ---
 
@@ -52,17 +144,17 @@ Features
 Order Status
 
 Pending
-   →
+   ↓
 Placed
-   →
+   ↓
 Preparing
-   →
+   ↓
 Ready for Pickup
-   →
+   ↓
 Rider Picked Up
-   →
+   ↓
 On the Way
-   →
+   ↓
 Delivered
 
 Customers receive live order status updates without needing to refresh the application.
@@ -71,11 +163,11 @@ Customers receive live order status updates without needing to refresh the appli
 
 🛵 Courier / Rider System
 
-Veltrix Technologies includes a dedicated delivery rider system.
+Veltrix Technologies includes a dedicated delivery rider system for businesses that offer delivery.
 
 Rider Application
 
-Potential riders can submit an application containing:
+Potential riders can submit:
 
 - Personal information
 - Contact details
@@ -83,7 +175,7 @@ Potential riders can submit an application containing:
 - Plate number
 - Identification information
 
-Administrators can review applications and approve or reject riders.
+Administrators can review, approve, or reject rider applications.
 
 Rider Dashboard
 
@@ -99,26 +191,24 @@ Approved riders can:
 - Mark orders as Delivered
 - Receive sound notifications for new deliveries
 
+For businesses that do not require delivery services, the Rider System can also be disabled or removed.
+
 ---
 
 👨‍💼 Admin Management Dashboard
 
-The Admin Dashboard provides centralized control over the entire platform.
+The Admin Dashboard provides centralized control over the enabled business features.
 
 Order Management
-
-Administrators can:
 
 - View incoming orders in real time
 - Receive new-order sound notifications
 - Manage order statuses
 - Monitor active deliveries
-- Manage cancelled orders
 - Monitor completed orders
+- Manage cancelled orders
 
 Menu Management
-
-Administrators can:
 
 - Add menu items
 - Edit menu items
@@ -130,8 +220,6 @@ Administrators can:
 
 Rider Management
 
-Administrators can:
-
 - Review rider applications
 - Approve riders
 - Reject applications
@@ -142,7 +230,7 @@ Administrators can:
 
 🏓 Pickleball Hub
 
-Veltrix Technologies can also support businesses that offer pickleball courts and reservations.
+For businesses that offer pickleball facilities, Veltrix Technologies can include a complete court reservation system.
 
 Court Management
 
@@ -166,7 +254,7 @@ Customers can:
 
 The system includes database-level conflict prevention to help prevent double bookings.
 
-Additional Pickleball Features
+Additional Features
 
 - Paddle rental
 - Fresh ball add-ons
@@ -174,11 +262,13 @@ Additional Pickleball Features
 - Admin-controlled game timer
 - Countdown timer for active games
 
+For businesses that do not offer pickleball, this entire module can be removed.
+
 ---
 
 🔐 Authentication & Security
 
-Veltrix Technologies uses a role-based authentication system designed to protect users and business data.
+Veltrix Technologies uses role-based authentication designed to protect users and business data.
 
 Supported Roles
 
@@ -209,7 +299,7 @@ Backend Security
 
 💳 Payment System
 
-Veltrix Technologies is designed to support multiple payment methods.
+Veltrix Technologies can support different payment methods depending on the business configuration.
 
 Current / Supported
 
@@ -222,6 +312,8 @@ Planned Payment Integration
 - Payment proof submission
 - Payment reference number
 - Payment verification
+
+Payment features can also be customized according to the business's preferred payment methods.
 
 ---
 
@@ -243,45 +335,76 @@ Users do not need to continuously refresh the application to see important updat
 
 ---
 
-🎯 Purpose
+🎯 Why Veltrix Technologies?
 
-Veltrix Technologies was created to help businesses establish their own branded digital ordering and delivery platform.
+Veltrix Technologies is designed to give businesses their own custom digital platform instead of forcing them into a one-size-fits-all system.
 
-The goal is to provide businesses with greater control over:
+Businesses can choose what they need.
 
-- Customer orders
-- Menu and pricing
-- Delivery operations
-- Riders
-- Customers
-- Payments
-- Reservations
-- Business management
+Restaurant
+    ↓
+Food System
+    +
+Delivery System
+    +
+Admin System
 
-Rather than relying entirely on third-party platforms, businesses can operate their own customized system.
+Pickleball Facility
+    ↓
+Booking System
+    +
+Court Management
+    +
+Admin System
+
+Restaurant + Pickleball
+    ↓
+Food System
+    +
+Delivery System
+    +
+Pickleball System
+    +
+Admin System
+
+This modular approach makes the platform suitable for different types of businesses.
 
 ---
 
-🧩 System Architecture
+🛠️ Customization
 
-The platform is designed around separate user experiences:
+The system can be customized according to the business requirements.
 
-                    FlavorFleet
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       Customer        Rider          Admin
-          │              │              │
-          ▼              ▼              ▼
-       Ordering       Delivery      Management
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                    Backend / DB
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-          Orders & Users       Reservations
+Possible customizations include:
+
+- Business branding
+- Logo
+- Colors
+- Menu categories
+- Products
+- Delivery fees
+- Rider requirements
+- Payment methods
+- Order workflow
+- User roles
+- Court booking configuration
+- Court pricing
+- Equipment rentals
+- Additional business features
+
+Feature Removal
+
+Unnecessary modules can be removed from the application.
+
+For example:
+
+«Restaurant only: Remove Pickleball features.»
+
+«Pickleball only: Remove Food Delivery features.»
+
+«Restaurant + Pickleball: Keep both systems.»
+
+This keeps the application clean, focused, and relevant to the business.
 
 ---
 
@@ -297,27 +420,6 @@ The system can also be adapted into a dedicated mobile application.
 
 ---
 
-🛠️ Customization
-
-Veltrix Technologies can be customized according to the business requirements.
-
-Possible customizations include:
-
-- Business branding
-- Logo
-- Colors
-- Menu categories
-- Products
-- Delivery fees
-- Rider requirements
-- Payment methods
-- Order workflow
-- User roles
-- Court booking configuration
-- Additional business features
-
----
-
 📌 Project Status
 
 «🚧 Active Development»
@@ -330,10 +432,14 @@ Veltrix Technologies is continuously being improved with new features, optimizat
 
 This project is currently intended for private/business use.
 
-If you are interested in using or customizing Veltrix Technologies for your business, please contact the developer.
+If you are interested in using or customizing a Veltrix Technologies solution for your business, please contact the developer.
 
 ---
 
-**Jessie Cabrera - Software Engineer**
+👨‍💻 Developer
 
-*Building customized digital solutions for modern businesses.*
+Jessie
+Software Engineer 
+
+«Veltrix Technologies
+Building customized digital solutions for modern businesses.»

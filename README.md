@@ -3,9 +3,9 @@ Roadside Paddles - Food Delivery Apps
 
 All-in-One Food Delivery, Courier & Business Management Platform
 
-Roadside Paddles is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.
+Veltrix Technologies is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.
 
-Instead of depending entirely on third-party delivery platforms, Roadside Paddles allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.
+Instead of depending entirely on third-party delivery platforms, Veltrix Technologies allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.
 
 The system is designed to be flexible and customizable according to the needs of each business.
 
@@ -13,7 +13,7 @@ The system is designed to be flexible and customizable according to the needs of
 
 🚀 Overview
 
-Roadside Paddles provides a complete digital ecosystem consisting of:
+Veltrix Technologies provides a complete digital ecosystem consisting of:
 
 - 🍽️ Customer Food Ordering
 - 🛒 Shopping Cart & Checkout
@@ -71,7 +71,7 @@ Customers receive live order status updates without needing to refresh the appli
 
 🛵 Courier / Rider System
 
-Roadside Paddles includes a dedicated delivery rider system.
+Veltrix Technologies includes a dedicated delivery rider system.
 
 Rider Application
 
@@ -142,7 +142,7 @@ Administrators can:
 
 🏓 Pickleball Hub
 
-FlavorFleet can also support businesses that offer pickleball courts and reservations.
+Veltrix Technologies can also support businesses that offer pickleball courts and reservations.
 
 Court Management
 
@@ -178,7 +178,7 @@ Additional Pickleball Features
 
 🔐 Authentication & Security
 
-FlavorFleet uses a role-based authentication system designed to protect users and business data.
+Veltrix Technologies uses a role-based authentication system designed to protect users and business data.
 
 Supported Roles
 
@@ -209,7 +209,7 @@ Backend Security
 
 💳 Payment System
 
-FlavorFleet is designed to support multiple payment methods.
+Veltrix Technologies is designed to support multiple payment methods.
 
 Current / Supported
 
@@ -227,7 +227,7 @@ Planned Payment Integration
 
 🔔 Real-Time Features
 
-FlavorFleet is designed around real-time business operations.
+Veltrix Technologies is designed around real-time business operations.
 
 Examples include:
 
@@ -245,7 +245,7 @@ Users do not need to continuously refresh the application to see important updat
 
 🎯 Purpose
 
-FlavorFleet was created to help businesses establish their own branded digital ordering and delivery platform.
+Veltrix Technologies was created to help businesses establish their own branded digital ordering and delivery platform.
 
 The goal is to provide businesses with greater control over:
 
@@ -287,7 +287,7 @@ The platform is designed around separate user experiences:
 
 📱 Platform
 
-FlavorFleet is designed to provide a responsive experience across:
+Veltrix Technologies is designed to provide a responsive experience across:
 
 - 📱 Mobile devices
 - 💻 Desktop
@@ -299,7 +299,7 @@ The system can also be adapted into a dedicated mobile application.
 
 🛠️ Customization
 
-FlavorFleet can be customized according to the business requirements.
+Veltrix Technologies can be customized according to the business requirements.
 
 Possible customizations include:
 
@@ -322,7 +322,7 @@ Possible customizations include:
 
 «🚧 Active Development»
 
-FlavorFleet is continuously being improved with new features, optimizations, security improvements, and business-specific functionality.
+Veltrix Technologies is continuously being improved with new features, optimizations, security improvements, and business-specific functionality.
 
 ---
 
@@ -330,13 +330,13 @@ FlavorFleet is continuously being improved with new features, optimizations, sec
 
 This project is currently intended for private/business use.
 
-If you are interested in using or customizing FlavorFleet for your business, please contact the developer.
+If you are interested in using or customizing Veltrix Technologies for your business, please contact the developer.
 
 ---
 
 Software Developer
 
 Jessie Cabrera
-IT Engineer
+Software Engineer
 
 «Building customized digital solutions for modern businesses.»

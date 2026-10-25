@@ -435,11 +435,7 @@ This project is currently intended for private/business use.
 If you are interested in using or customizing a Veltrix Technologies solution for your business, please contact the developer.
 
 ---
+Developer
+**Jessie Cabrera - Software Engineer**
 
-👨‍💻 Developer
-
-Jessie
-Software Engineer 
-
-«Veltrix Technologies
-Building customized digital solutions for modern businesses.»
+*Veltrix Technologiesy - Building customized digital solutions for modern businesses.*

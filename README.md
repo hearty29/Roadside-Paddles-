@@ -52,17 +52,17 @@ Features
 Order Status
 
 Pending
-   ↓
+   →
 Placed
-   ↓
+   →
 Preparing
-   ↓
+   →
 Ready for Pickup
-   ↓
+   →
 Rider Picked Up
-   ↓
+   →
 On the Way
-   ↓
+   →
 Delivered
 
 Customers receive live order status updates without needing to refresh the application.

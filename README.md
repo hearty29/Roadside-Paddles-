@@ -71,7 +71,7 @@ Customers receive live order status updates without needing to refresh the appli
 
 🛵 Courier / Rider System
 
-FlavorFleet includes a dedicated delivery rider system.
+Roadside Paddles includes a dedicated delivery rider system.
 
 Rider Application
 

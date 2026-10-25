@@ -1,4 +1,4 @@
-
+y
 **Roadside Paddles - Food Delivery Apps**
 
 **All-in-One Food Delivery, Courier & Business Management Platform**
@@ -334,9 +334,7 @@ If you are interested in using or customizing Veltrix Technologies for your busi
 
 ---
 
-Software Developer
+**Jessie Cabrera
+Software Engineer**
 
-Jessie Cabrera
-Software Engineer
-
-«Building customized digital solutions for modern businesses.»
+*Building customized digital solutions for modern businesses.*

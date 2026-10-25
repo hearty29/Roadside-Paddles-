@@ -334,7 +334,6 @@ If you are interested in using or customizing Veltrix Technologies for your busi
 
 ---
 
-**Jessie Cabrera
-Software Engineer**
+**Jessie Cabrera - Software Engineer**
 
 *Building customized digital solutions for modern businesses.*

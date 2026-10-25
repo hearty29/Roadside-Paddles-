@@ -8,7 +8,7 @@ Instead of depending entirely on third-party delivery platforms, FlavorFleet all
 
 The system is designed to be flexible and customizable according to the needs of each business.
 
-=====================================================================================================
+====================================================================================================
 
 🚀 Overview
 

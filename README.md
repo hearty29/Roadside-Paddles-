@@ -8,7 +8,7 @@ Instead of depending entirely on third-party delivery platforms, FlavorFleet all
 
 The system is designed to be flexible and customizable according to the needs of each business.
 
----
+=========================================================================================================================
 
 🚀 Overview
 
@@ -333,9 +333,9 @@ If you are interested in using or customizing FlavorFleet for your business, ple
 
 ---
 
-👨‍💻 Developer
+Software Developer
 
-Jessie
+Jessie Cabrera
 IT Engineer
 
 «Building customized digital solutions for modern businesses.»

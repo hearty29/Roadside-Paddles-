@@ -5,7 +5,7 @@ All-in-One Food Delivery, Courier & Business Management Platform
 
 Roadside Paddles is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.
 
-Instead of depending entirely on third-party delivery platforms, Roadside allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.
+Instead of depending entirely on third-party delivery platforms, Roadside Paddles allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.
 
 The system is designed to be flexible and customizable according to the needs of each business.
 
@@ -13,7 +13,7 @@ The system is designed to be flexible and customizable according to the needs of
 
 🚀 Overview
 
-FlavorFleet provides a complete digital ecosystem consisting of:
+Roadside Paddles provides a complete digital ecosystem consisting of:
 
 - 🍽️ Customer Food Ordering
 - 🛒 Shopping Cart & Checkout

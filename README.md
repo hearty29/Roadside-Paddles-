@@ -1,13 +1,13 @@
 
-Roadside Paddles - Food Delivery Apps 
+**Roadside Paddles - Food Delivery Apps**
 
-All-in-One Food Delivery, Courier & Business Management Platform
+**All-in-One Food Delivery, Courier & Business Management Platform**
 
-Veltrix Technologies is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.
+**Veltrix Technologies is a modern, full-featured food delivery and business management platform designed to give businesses their own dedicated ordering and delivery system.**
 
-Instead of depending entirely on third-party delivery platforms, Veltrix Technologies allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.
+**Instead of depending entirely on third-party delivery platforms, Veltrix Technologies allows businesses to manage their customers, menu, orders, delivery riders, payments, and reservations from one centralized platform.**
 
-The system is designed to be flexible and customizable according to the needs of each business.
+**The system is designed to be flexible and customizable according to the needs of each business.**
 
 ---
 

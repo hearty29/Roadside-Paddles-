@@ -30,6 +30,7 @@ Veltrix Technologies can provide businesses with:
 - 👨‍💼 Business Admin Dashboard
 - 📋 Menu Management
 - 👥 Customer Management
+- 🫆 Real-Time Tracking Rider Name
 - 🔐 Authentication & Role Management
 - 💳 Payment Integration
 - 🏓 Pickleball Court Booking
@@ -141,6 +142,7 @@ Features
 - Product availability / Sold Out system
 - Order cancellation while pending
 - Real-time order tracking
+- Real-time tracking rider name
 
 Order Status
 

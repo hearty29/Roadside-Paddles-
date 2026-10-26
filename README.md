@@ -444,5 +444,5 @@ If you are interested in using or customizing a Veltrix Technologies solution fo
 
 ![image alt](https://i.imgur.com/c9iK5Lx.jpeg)
 ![image alt](https://i.imgur.com/Iv00nLS.jpeg)
-![image alt](https://imgur.com/a/HHD6Jzf)
+![image alt](https://imgur.com/a/HHD6Jzf.jpeg)
 

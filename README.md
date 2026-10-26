@@ -144,17 +144,17 @@ Features
 Order Status
 
 Pending
-   ↓
+   →
 Placed
-   ↓
+   → 
 Preparing
-   ↓
+   →
 Ready for Pickup
-   ↓
+   →
 Rider Picked Up
-   ↓
+   →
 On the Way
-   ↓
+   →
 Delivered
 
 Customers receive live order status updates without needing to refresh the application.
@@ -342,7 +342,7 @@ Veltrix Technologies is designed to give businesses their own custom digital pla
 Businesses can choose what they need.
 
 Restaurant
-    ↓
+    →
 Food System
     +
 Delivery System
@@ -350,7 +350,7 @@ Delivery System
 Admin System
 
 Pickleball Facility
-    ↓
+    →
 Booking System
     +
 Court Management
@@ -358,7 +358,7 @@ Court Management
 Admin System
 
 Restaurant + Pickleball
-    ↓
+    →
 Food System
     +
 Delivery System

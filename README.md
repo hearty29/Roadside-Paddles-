@@ -17,8 +17,6 @@ The platform is modular, meaning features can be added or removed depending on t
 
 This allows Veltrix Technologies to deliver solutions specifically tailored to each business instead of forcing every business to use features they do not need.
 
-
-![image alt](https://i.imgur.com/c9iK5Lx.jpeg)
 ---
 
 🚀 Overview
@@ -443,3 +441,8 @@ If you are interested in using or customizing a Veltrix Technologies solution fo
 **Jessie Cabrera - Software Developer**
 
 *Veltrix Technologiesy - Building customized digital solutions for modern businesses.*
+
+![image alt](https://i.imgur.com/c9iK5Lx.jpeg)
+![image alt](https://i.imgur.com/Iv00nLS.jpeg)
+![image alt](https://imgur.com/a/HHD6Jzf)
+

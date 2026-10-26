@@ -17,6 +17,8 @@ The platform is modular, meaning features can be added or removed depending on t
 
 This allows Veltrix Technologies to deliver solutions specifically tailored to each business instead of forcing every business to use features they do not need.
 
+https://i.imgur.com/c9iK5Lx.jpeg
+
 ---
 
 🚀 Overview

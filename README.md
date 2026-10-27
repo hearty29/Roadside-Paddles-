@@ -4,7 +4,7 @@ Modular Food Delivery, Courier & Business Management Platform
 
 Veltrix Technologies is a modern, customizable business technology platform designed to provide businesses with their own dedicated ordering, delivery, reservation, and management system.
 
-You can also test the application directly by downloading the APK file I have attached above. You will find the file** named RoadsidePaddles.apk, which allows you to install and experience the application firsthand.
+You can also test the application directly by downloading the APK file I have attached above. You will find the file named *RoadsidePaddles.apk*, which allows you to install and experience the application firsthand.
 And always check the - Apps-Change-Logs section for the latest application updates, improvements, bug fixes, and newly implemented features. This ensures that you are aware of all recent changes and fixes made to the application.
 ---
 

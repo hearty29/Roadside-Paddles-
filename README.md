@@ -301,7 +301,7 @@ Backend Security
 
 ---
 
-Customer–Rider Chat Support
+🗨️ Customer–Rider Chat Support
 
 The application now includes an integrated real-time chat support system that allows customers and assigned delivery riders to communicate directly regarding their orders.
 

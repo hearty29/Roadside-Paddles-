@@ -301,6 +301,20 @@ Backend Security
 
 ---
 
+Customer–Rider Chat Support
+
+The application now includes an integrated real-time chat support system that allows customers and assigned delivery riders to communicate directly regarding their orders.
+
+Key features include:
+
+- Direct customer-to-rider messaging
+- Real-time order-related communication
+- Delivery updates and coordination
+- Chat available for the assigned rider and customer
+- Improved communication throughout the delivery process
+
+  ---
+  
 💳 Payment System
 
 Veltrix Technologies can support different payment methods depending on the business configuration.

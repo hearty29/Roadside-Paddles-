@@ -1,11 +1,53 @@
-- [x] Enable public profile-pictures bucket (blocked by workspace public-bucket policy; owner must allow public buckets).
-- [x] Add secured photo and ID storage and saved verification fields.
-- [x] Build rider verification page and navigation with live upload states.
-- [x] Test file rules (6 tests passed) and verify signed-out access requires sign-in.
-- [x] Verify both uploads while signed in (blocked: no requesting-user account/session available; user must sign in to the preview).
-- [x] Require rider profile photos for applications and acceptance.
-- [x] Require private delivery proof before completing an order; show rider photos and delivery receipts.
-- [x] Test photo requirements (11 photo/name tests and 1 routing test passed; live sign-in gate verified).
-- [x] Verify signed-in acceptance, proof upload, completion and customer readback (blocked: requesting user has no matching app account/session; sign in to the preview).
-- [x] Fix photo saving for riders without profile records and restore missing profile access grants.
-- [x] Fix Assigned Rider Delivery Tracking
+***CHANGE-LOGS LATEST UPDATES***
+***DATE: OCTOBER 29, 2026***
+
+---
+
+• Delivery and Counter / Walk-in checkout options.
+• No delivery fee for counter orders.
+• Separate admin filters for each order type.
+• Mark Claimed button for collected counter orders.
+• Improved checkout retries and duplicate order prevention.
+• Automatic admin order refreshing.
+• Dedicated tournament page and admin controls.
+• Doubles team registration for 2–32 teams.
+• Team approval, editing, rejection, and withdrawal.
+• Single and double elimination formats.
+• Automatic seeding, byes, and participant advancement.
+• Green Winner, red Loser, and gold Championship brackets.
+• Match scores, schedules, and court labels.
+• Manual bracket corrections with recorded reasons.
+• Final standings and synchronized team names.
+• Unlimited custom prize entries.
+• Cash prizes, descriptions, and non-cash rewards.
+• Automatic prize assignment by final placement.
+• Manual team/player awards, including MVP.
+• PHP and other configured currencies.
+• Public prize lists and winning recipients.
+• Dark tournament arena layout.
+• Connected advancement paths.
+• Highlighted winners and match scores.
+• Champion presentation.
+• Responsive bracket viewing.
+• YouTube and Facebook video integration.
+• Scheduled, Live, and Ended labels.
+• Embedded video and direct-watch buttons.
+• Optional replay links.
+• Broadcast using the provider’s smartphone app.
+• Delete for me for admins, riders, and customers.
+• Conversations hidden only from your account.
+• Other participants retain their messages.
+• New messages restore hidden conversations.
+• SQL migration can be safely reapplied.
+• Text labels beside navigation icons.
+• Centered Roadside Paddles header.
+• Centered footer: © Roadside Paddles 2026.
+• Delete individual tournaments.
+• Clear all tournaments.
+• Remove related teams, brackets, scores, standings,
+• Prizes, livestream settings, contacts, and history.
+• Typed confirmation before permanent deletion.
+• Protection against deleting changed tournament data.
+• Food orders, accounts, and court bookings preserved.
+• Tournament cleanup pushed to GitHub.
+• Apply SQL migration 0012 after 0011 before publishing.

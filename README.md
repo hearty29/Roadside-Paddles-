@@ -93,3 +93,5 @@ And always check the (*Apps-Change-Logs*) section for the latest application upd
 - Responsive layouts for phones and tablets.
 
 ***Deployment note: This reflects the latest code pushed to GitHub migration 0011***
+
+![description](https://i.imgur.com/l5rFe8j.jpeg)

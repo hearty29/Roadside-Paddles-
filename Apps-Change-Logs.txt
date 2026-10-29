@@ -1,3 +1,6 @@
+***Latest Update***
+***Date:
+
 • Delivery and Counter / Walk-in checkout options. 
 • No delivery fee for counter orders. 
 • Separate admin filters for each order type. 
@@ -43,5 +46,6 @@
 • Prizes, livestream settings, contacts, and history. 
 • Typed confirmation before permanent deletion. 
 • Protection against deleting changed tournament data. 
-• Food orders, accounts, and court bookings preserved. • Tournament cleanup pushed to GitHub. 
+• Food orders, accounts, and court bookings preserved. 
+• Tournament cleanup pushed to GitHub. 
 • Apply SQL migration 0012 after 0011 before publishing.

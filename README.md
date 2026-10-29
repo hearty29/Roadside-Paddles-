@@ -94,5 +94,5 @@
 
 ***Deployment note: This reflects the latest code pushed to GitHub migration 0011***
 
-# JESSIE CABRERA - SOFTWARE DEVELOPER 
+#
 ![description](https://i.imgur.com/l5rFe8j.jpeg)

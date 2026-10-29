@@ -92,6 +92,46 @@ And always check the (*Apps-Change-Logs*) section for the latest application upd
 - Centered Roadside Paddles branding.
 - Responsive layouts for phones and tablets.
 
+- 🏠 NEW HOMEPAGE
+• Replaced the old banner with your uploaded design.
+• Added the introduction video with playback controls.
+• Added introductory text for food, coffee, and pickleball.
+• Added separate Home and Menu navigation.
+
+🚴 REQUIRED RIDER IDENTIFICATION
+• Rider applications now require a valid ID upload.
+• Accepted: School ID, National ID, or Passport.
+• Supports images and PDFs up to 10MB.
+• IDs remain private to the applicant and admins.
+• Admins can view IDs before approving applications.
+• Missing or rejected IDs block new applications/approvals.
+• Profile pictures are still required.
+
+🔧 LATEST NAVIGATION FIX
+• Restored “Apply as Rider” in the header.
+• Normal users can open the application from any page.
+• Guests are prompted to sign in.
+• Approved riders keep their Rider dashboard link.
+
+✅ EXISTING FEATURES RETAINED
+• Food and coffee ordering.
+• Delivery and Counter / Walk-in checkout.
+• Order tracking and rider delivery management.
+• Pickleball court booking and GCash receipt submission.
+• Single and double elimination tournaments.
+• Live brackets, scores, standings, and custom prizes.
+• Facebook/YouTube tournament video coverage.
+• Individual and bulk tournament cleanup.
+• Private support conversations and Delete for me.
+• Email/password login and Continue with Google.
+
+📌 RELEASE STATUS
+• Latest navigation fix pushed to GitHub.
+• Merge its pull request into main, then publish.
+• No new SQL is needed for the navigation fix.
+• Required rider ID functionality needs migration 0013.
+• Facebook login has not been implemented yet.
+
 ***Deployment note: This reflects the latest code pushed to GitHub migration 0011***
 
 ![description](https://i.imgur.com/l5rFe8j.jpeg)
